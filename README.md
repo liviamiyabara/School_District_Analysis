@@ -2,7 +2,7 @@
 Week 4 module, PyCitySchools with Pandas
 
 ## School District Analysis Overview
-Explain the purpose of this analysis.
+This week the student assisted Maria, the Chief Data Scientist for the School District, to analyze the high school district data on funding, number of students, type of school and student scores to provide insights about performance trends and patterns in order to make informed decisions for the School District.
 
 ## Results
 * How is the district summary affected?
