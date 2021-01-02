@@ -17,7 +17,7 @@ An adjustment had to be made since there was evidence of academic dishonesty reg
 * Scores by school type
 
 ## Summary
-After using the loc method on the student_data_df to select all the reading scores from the 9th grade at Thomas High School and replacing them with NaN; the first main change was to calculate a new student count that would exclude the Thomas High School Students from 9th grade:
+After using the loc method on the student_data_df to select all the reading scores from the 9th grade at Thomas High School and replacing them with NaN; the first main change was to calculate a new student count that would exclude the Thomas High School Students from 9th grade, which was possible by using the loc method with specific conditions, setting up the “school name” to be equal to “Thomas High School” and adding the “&” function to include only students from 9th grade:
 
 ![ScreenShot]( https://github.com/liviamiyabara/School_District_Analysis/blob/main/Resources/Change1.png)
 
