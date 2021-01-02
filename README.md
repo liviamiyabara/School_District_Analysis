@@ -29,7 +29,7 @@ The third change was related to recalculating the passing count and passing perc
 
 ![ScreenShot]( https://github.com/liviamiyabara/School_District_Analysis/blob/main/Resources/Change3.png)
 
-The last and more complex change was the replacement of the passing math, passing reading and overall passing percentage using the loc method using the index of a specific row and column:
+The last and more complex change was the replacement of the new passing math, passing reading and overall passing percentages calculated above. The loc method was used again, but this time instead of conditions, the index of a specific row and column was applied to substitute the old percentages to the new calculations in the per_school_summary_df.
 
 ![ScreenShot]( https://github.com/liviamiyabara/School_District_Analysis/blob/main/Resources/Change4.png)
 
