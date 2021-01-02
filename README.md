@@ -3,6 +3,7 @@ Week 4 module, PyCitySchools with Pandas
 
 ## School District Analysis Overview
 This week the student assisted Maria, the Chief Data Scientist for the School District, to analyze the high school district data of funding, number of students, type of school and student scores to provide insights about performance trends and patterns in order to make informed decisions for the School District.
+An adjustment had to be made since there was evidence of academic dishonesty regarding reading and math scores for the ninth graders of Thomas High School, their grades were replaced by NaN ('Not a Number'). Now the school board wants to understand how these changes affected the overall analysis.
 
 ## Results
 * How is the district summary affected?
