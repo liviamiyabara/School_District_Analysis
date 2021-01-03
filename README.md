@@ -29,43 +29,43 @@ An adjustment had to be made since there was evidence of academic dishonesty reg
 * How does replacing the ninth-grade scores affect the following:
   * Math and reading scores by grade
   
-  The only change in the summary by grade is for Thomas High School 9th grades, the previous math and readings scores were replaced by nan (not a number) as highlighted in yellow below:
+    The only change in the summary by grade is for Thomas High School 9th grades, the previous math and readings scores were replaced by nan (not a number) as highlighted in yellow below:
   
-  ![ScreenShot]( https://github.com/liviamiyabara/School_District_Analysis/blob/main/Resources/By%20grade.png)
+    ![ScreenShot]( https://github.com/liviamiyabara/School_District_Analysis/blob/main/Resources/By%20grade.png)
 
   * Scores by school spending
   
-  Since Thomas High School is placed in the spending range of $630-644 per student, only the scores to that range slightly changed as highlighted in yellow below. 
+    Since Thomas High School is placed in the spending range of $630-644 per student, only the scores to that range slightly changed as highlighted in yellow below. 
 
-  ![ScreenShot]( https://github.com/liviamiyabara/School_District_Analysis/blob/main/Resources/School%20spending.png)
+    ![ScreenShot]( https://github.com/liviamiyabara/School_District_Analysis/blob/main/Resources/School%20spending.png)
   
-  Please note that if we use the formatted table, due to rounding, no changes are perceived in the summary table below. In conclusion, there are not significant differences to  the scores by school spending after the data was cleaned. 
+    Please note that if we use the formatted table, due to rounding, no changes are perceived in the summary table below. In conclusion, there are not significant differences to  the scores by school spending after the data was cleaned. 
   
-  ![ScreenShot]( https://github.com/liviamiyabara/School_District_Analysis/blob/main/Resources/School%20spending%20formatted.png)
+    ![ScreenShot]( https://github.com/liviamiyabara/School_District_Analysis/blob/main/Resources/School%20spending%20formatted.png)
 
   * Scores by school size
   
-  Since Thomas High School is placed as a ‘Medium’ school size, only the scores to that range slightly changed (second decimal place). Just like the notes above, in the formatted table there is no difference due to rounding. The cleaned-up data of the Thomas High School 9th grades does not significantly affect the summary by school size.
+    Since Thomas High School is placed as a ‘Medium’ school size, only the scores to that range slightly changed (second decimal place). Just like the notes above, in the formatted table there is no difference due to rounding. The cleaned-up data of the Thomas High School 9th grades does not significantly affect the summary by school size.
   
-  Summary table with 6 decimal places:
+    Summary table with 6 decimal places:
 
-  ![ScreenShot]( https://github.com/liviamiyabara/School_District_Analysis/blob/main/Resources/School%20size.png)
+    ![ScreenShot]( https://github.com/liviamiyabara/School_District_Analysis/blob/main/Resources/School%20size.png)
 
-  Formatted table (no changes perceived): 
+    Formatted table (no changes perceived): 
 
-  ![ScreenShot]( https://github.com/liviamiyabara/School_District_Analysis/blob/main/Resources/School%20size%20formatted.png)
+    ![ScreenShot]( https://github.com/liviamiyabara/School_District_Analysis/blob/main/Resources/School%20size%20formatted.png)
 
   * Scores by school type
   
-  Since Thomas High School is a Charter school, only the scores to that school type slightly changed (second decimal place). In the formatted table there is no difference in the numbers due to rounding. The cleaned-up data of the Thomas High School 9th grades does not significantly affect the summary by school type.
+    Since Thomas High School is a Charter school, only the scores to that school type slightly changed (second decimal place). In the formatted table there is no difference in the numbers due to rounding. The cleaned-up data of the Thomas High School 9th grades does not significantly affect the summary by school type.
 
-  Summary table with 6 decimal places:
-  
-  ![ScreenShot]( https://github.com/liviamiyabara/School_District_Analysis/blob/main/Resources/School%20type.png)
+    Summary table with 6 decimal places:
 
-  Formatted table (no changes perceived): 
-  
-  ![ScreenShot]( https://github.com/liviamiyabara/School_District_Analysis/blob/main/Resources/School%20type%20formatted.png)
+    ![ScreenShot]( https://github.com/liviamiyabara/School_District_Analysis/blob/main/Resources/School%20type.png)
+
+    Formatted table (no changes perceived): 
+
+    ![ScreenShot]( https://github.com/liviamiyabara/School_District_Analysis/blob/main/Resources/School%20type%20formatted.png)
 
 
 ## Summary
