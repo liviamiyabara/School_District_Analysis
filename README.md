@@ -11,10 +11,10 @@ An adjustment had to be made since there was evidence of academic dishonesty reg
 * How is the school summary affected?
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 * How does replacing the ninth-grade scores affect the following:
-* Math and reading scores by grade
-* Scores by school spending
-* Scores by school size
-* Scores by school type
+  * Math and reading scores by grade
+  * Scores by school spending
+  * Scores by school size
+  * Scores by school type
 
 ## Summary
 After using the loc method on the student_data_df to select all the reading scores from the 9th grade at Thomas High School and replacing them with NaN; the first main change was to calculate a new student count that would exclude the Thomas High School Students from 9th grade by using the loc method with specific conditions, “school name” only for “Thomas High School” and adding the “&” function to include only students from 9th grade:
