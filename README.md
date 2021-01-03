@@ -22,7 +22,7 @@ An adjustment had to be made since there was evidence of academic dishonesty reg
 
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
-  As per the table below, the school summary is ordered by the highest overall passing percentage to the lowest, in terms of position in the rank, Thomas High School keeps the second place compared to the other schools, but with percentages a bit lower than before.
+  As per the table below, the school summary is ordered by the highest overall passing percentage to the lowest, in terms of position in the rank, Thomas High School keeps the second place compared to the other schools, but with percentages a bit lower than before, from 90.948012% to 90.630324%
 
   ![ScreenShot]( https://github.com/liviamiyabara/School_District_Analysis/blob/main/Resources/School%20summary%20ranking.png)
 
