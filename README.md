@@ -28,11 +28,13 @@ An adjustment had to be made since there was evidence of academic dishonesty reg
 
 * How does replacing the ninth-grade scores affect the following:
   * Math and reading scores by grade
+  
   The only change in the summary by grade is for Thomas High School 9th grades, the previous math and readings scores were replaced by nan (not a number) as highlighted in yellow below:
   
   ![ScreenShot]( https://github.com/liviamiyabara/School_District_Analysis/blob/main/Resources/By%20grade.png)
 
   * Scores by school spending
+  
   Since Thomas High School is placed in the spending range of $630-644 per student, only the scores to that range slightly changed as highlighted in yellow below. 
 
   ![ScreenShot]( https://github.com/liviamiyabara/School_District_Analysis/blob/main/Resources/School%20spending.png)
@@ -42,6 +44,7 @@ An adjustment had to be made since there was evidence of academic dishonesty reg
   ![ScreenShot]( https://github.com/liviamiyabara/School_District_Analysis/blob/main/Resources/School%20spending%20formatted.png)
 
   * Scores by school size
+  
   Since Thomas High School is placed as a ‘Medium’ school size, only the scores to that range slightly changed (second decimal place). Just like the notes above, in the formatted table there is no difference due to rounding. The cleaned-up data of the Thomas High School 9th grades does not significantly affect the summary by school size.
   
   Summary table with 6 decimal places:
