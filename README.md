@@ -12,19 +12,19 @@ An adjustment had to be made since there was evidence of academic dishonesty reg
  
   The number of schools, students and total budget did not change since there was no updates to that portion of the data. What changed was related to the average score and passing percentages, by looking at the data below, the average math score decreased 0.1% points, the average reading score did not change due to rounding (before it was 81.87784% and after cleaning the data it is 81.855796%), the passing math and passing reading percentage dropped 0.2% points each and for the overall passing percentage there is a reduction of 0.3% points.
 
-![ScreenShot](https://github.com/liviamiyabara/School_District_Analysis/blob/main/Resources/District%20summary.png)
+  ![ScreenShot](https://github.com/liviamiyabara/School_District_Analysis/blob/main/Resources/District%20summary.png)
 
 * How is the school summary affected?
 
   The only change in the school summary is related to the Thomas High School (THS) row, highlighted in yellow below. The average math and reading score, passing percentage for math, reading and overall slighted dropped since the data was cleaned regarding THS 9th graders.
 
-![ScreenShot]( https://github.com/liviamiyabara/School_District_Analysis/blob/main/Resources/School%20summary.png)
+  ![ScreenShot]( https://github.com/liviamiyabara/School_District_Analysis/blob/main/Resources/School%20summary.png)
 
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
   As per the table below, the school summary is ordered by the highest overall passing percentage to the lowest, in terms of position in the rank, Thomas High School keeps the second place compared to the other schools, but with percentages a bit lower than before.
 
-![ScreenShot]( https://github.com/liviamiyabara/School_District_Analysis/blob/main/Resources/School%20summary%20ranking.png)
+  ![ScreenShot]( https://github.com/liviamiyabara/School_District_Analysis/blob/main/Resources/School%20summary%20ranking.png)
 
 * How does replacing the ninth-grade scores affect the following:
   * Math and reading scores by grade
